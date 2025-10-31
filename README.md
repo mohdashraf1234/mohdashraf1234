@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="Ashraf.png" width="280" alt="Mohd Ashraf" style="border-radius: 50%; margin: 20px 0;" />
+  <img src="Ashraf.png" width="380" alt="Mohd Ashraf" style="border-radius: 50%; margin: 20px 0;" />
 </div>
 
 <div align="center">
