@@ -1,10 +1,4 @@
-Got it 👍 — you want the **same GitHub README format** as the original (modern style with animations, badges, etc.), but with **your name, photo, and full content** replaced using your **resume details** (Java Developer profile).
 
-Here’s your customized **`README.md`** content for **Mohd Ashraf** 👇
-
----
-
-````markdown
 # 👋 Hey there, I'm Mohd Ashraf!
 
 <div align="center">
@@ -12,7 +6,7 @@ Here’s your customized **`README.md`** content for **Mohd Ashraf** 👇
 </div>
 
 <div align="center">
-  <img src="./Ashraf.png" width="280" alt="Mohd Ashraf" style="border-radius: 50%; margin: 20px 0;" />
+  <img src="Ashraf.png" width="280" alt="Mohd Ashraf" style="border-radius: 50%; margin: 20px 0;" />
 </div>
 
 <div align="center">
