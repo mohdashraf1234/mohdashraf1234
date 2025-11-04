@@ -139,14 +139,13 @@ const mohdAshraf = {
 ```yaml
 Learning:
   - System Design Fundamentals
-  - DevOps Basics & CI/CD
+  - DevOps  & CI/CD
   - Advanced DSA & Problem Solving
-  - Microservices Architecture
   - AWS Cloud Services
 
 Goals_2025:
   - Build scalable enterprise-grade applications
-  - Master Spring Microservices & Cloud Deployment
+  - 500 Leetccode  Problems
   - Achieve deeper expertise in System Design
 ```
 
