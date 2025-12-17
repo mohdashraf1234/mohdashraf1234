@@ -14,6 +14,8 @@
   [![GitHub followers](https://img.shields.io/github/followers/mohdashraf1234?style=for-the-badge&color=orange&labelColor=000000)](https://github.com/mohdashraf1234)
   [![GitHub stars](https://img.shields.io/github/stars/mohdashraf1234?style=for-the-badge&color=orange&labelColor=000000)](https://github.com/mohdashraf1234)
   [![Profile views](https://komarev.com/ghpvc/?username=mohdashraf1234&style=for-the-badge&color=orange&labelColor=000000)](https://github.com/mohdashraf1234)
+  [![Profile views](https://komarev.com/ghpvc/?username=mohdashraf1234&style=for-the-badge&color=orange&labelColor=000000)](https://leetcode.com/u/a_cube___/)
+  
 </div>
 
 ---
