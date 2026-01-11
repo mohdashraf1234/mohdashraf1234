@@ -99,17 +99,15 @@ const mohdAshraf = {
 
 ## 🏗️ Featured Projects
 
-<div align="center">
-
-| Project                               | Description                                                                  | Tech Stack                                                       | Links                                                                   |
-| ------------------------------------- | ---------------------------------------------------------------------------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| 🏨 **Hotel Rating Management System** | Scalable microservices system for managing users, resorts & ratings.         | Java, Spring Boot, Microservices, JWT, Spring Security, MySQL    | [GitHub](https://github.com/mohdashraf1234/HotelRatingManagementSystem) |
-| ☁️ **Smart Cloud-based Contact App**  | Full-stack contact manager with Razorpay integration.                        | Java, Spring Boot, Thymeleaf, MySQL, Bootstrap, Razorpay         | [GitHub](https://github.com/mohdashraf1234)                             |
-| 🧾 **Bill Project**                   | Backend system with 150+ JasperReports (.jrxml) for credit/debit operations. | Java 8, Spring Boot, Microservices, Hibernate, MySQL, JasperSoft | —                                                                       |
-| 🏦 **National Bank of Egypt**         | Banking solution with cheque scanning, fraud detection & REST APIs.          | Java, Spring Boot, MySQL, Finacle Integration, HTML, CSS, JS     | —                                                                       |
-| 🌐 **Portfolio Website**              | Personal responsive portfolio website.                                       | HTML, CSS, JS                                                    | [Live](https://mohdashraf1234.github.io/AshrafPortfolio/)                    |
-
-</div>
+| Project                               | Description                                                                                       | Tech Stack                                                           | Links                                                                   |
+| ------------------------------------- | ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| 🏨 **Hotel Rating Management System** | Scalable microservices system for managing users, hotels, and ratings with secure authentication. | Java, Spring Boot, Microservices, JWT, Spring Security, MySQL        | [GitHub](https://github.com/mohdashraf1234/HotelRatingManagementSystem) |
+| 💬 **Chat Application**               | Real-time chat application with user authentication and instant messaging using REST & WebSocket. | Java, Spring Boot, WebSocket, REST APIs, MySQL                       | [GitHub](https://github.com/mohdashraf1234/ChatApplication)             |
+| ☁️ **Smart Cloud-based Contact App**  | Full-stack contact management application with payment integration.                               | Java, Spring Boot, Thymeleaf, MySQL, Bootstrap, Razorpay             | [GitHub](https://github.com/mohdashraf1234)                             |
+| 🧾 **Bill Project**                   | Enterprise backend system with 150+ JasperReports for credit/debit and financial operations.      | Java 8, Spring Boot, Microservices, Hibernate, MySQL, JasperSoft     | —                                                                       |
+| 🏦 **National Bank of Egypt**         | Banking solution with cheque scanning, fraud detection, and REST API integration.                 | Java, Spring Boot, MySQL, Finacle Integration, HTML, CSS, JavaScript | —                                                                       |
+| 💳 **Online Banking Application**     | Secure online banking platform with account management, transactions, and dashboards.             | React, Java, Spring Boot, MySQL, HTML, CSS, JavaScript               | —                                                                       |
+| 🌐 **Portfolio Website**              | Responsive personal portfolio showcasing projects and skills.                                     | HTML, CSS, JavaScript                                                | [Live](https://mohdashraf1234.github.io/AshrafPortfolio/)               |
 
 ---
 
