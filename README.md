@@ -31,7 +31,7 @@ const mohdAshraf = {
   askMeAbout: ["Java", "Spring Boot", "Microservices", "SQL", "React", "AWS", "DSA"],
   technologies: {
     backend: ["Java", "Spring Boot", "Spring MVC", "Hibernate", "RESTful APIs", "Microservices"],
-    frontend: ["HTML5", "CSS3", "JavaScript", "React.js", "Bootstrap", "Thymeleaf"],
+    frontend: ["HTML5", "CSS3", "JavaScript", "Angular ","React.js", "Bootstrap", "Thymeleaf"],
     databases: ["MySQL", "PostgreSQL", "Oracle", "SQL"],
     tools: ["Git", "GitHub", "Postman", "Eclipse", "VS Code", "Docker", "Kafka", "RabbitMQ", "AWS"],
   },
